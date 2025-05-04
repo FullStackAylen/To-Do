@@ -37,4 +37,15 @@ Cada estado tiene un color distintivo:
    ```bash
    tsc app.ts
 
+---
 
+## ✍️ Autor
+
+Creado por **Aylen Rodriguez**  
+📌 FullStack Developer
+
+---
+
+## 📄 Licencia
+
+Este proyecto es de uso libre para fines educativos o personales.
